@@ -715,7 +715,7 @@ button {
     
 }
 .sixth__wrapper-left{
-    background: url(images/people.png) no-repeat ;
+    background: url(../images/people.png) no-repeat ;
     background-size: cover;
 }
 .sixth__wrapper-right{
